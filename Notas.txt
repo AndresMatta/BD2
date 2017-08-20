@@ -1,0 +1,31 @@
+ # Gestión de reservas de vuelo
+
+1. Usuario
+2. Reservas
+3. Vuelos
+4. Aviones
+5. Aeropuertos
+6. Plazas 
+7. Asientos
+
+A. Una reserva es realizada por un usuario.
+A. Una reserva puede ser de varias plazas.
+
+B. Un vuelo tiene un avión designado.
+B. Un vuelo tiene un aeropuerto de llegada.
+B. Un vuelo tiene un aeropuerto de salida.
+B. Un vuelo tiene muchas reservaciones.
+
+C. Un avión puede ser usado en muchos vuelos.
+C. Un avión tiene muchos asientos.
+
+D. Un aeropuerto puede ser usado para la llegada de aviones.
+D. Un aeropuerto puede ser usado para la salida de aviones.
+
+E. Una plaza es obtenida por un cliente.
+E. Una plaza pertenece a un vuelo.
+E. Una plaza posee un asiento.
+
+F. Un asiento pertence a un avión.
+
+
